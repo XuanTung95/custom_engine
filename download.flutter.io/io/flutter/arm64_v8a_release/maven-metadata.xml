@@ -1,0 +1,25 @@
+
+<metadata xmlns="http://maven.apache.org/METADATA/1.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/METADATA/1.1.0 http://maven.apache.org/xsd/metadata-1.1.0.xsd" modelVersion="1.1.0">
+  <groupId>io.flutter</groupId>
+  <artifactId>arm64_v8a_release</artifactId>
+  <version>1.0.0-4d491573ecabc8648bd3a742d7e4d9df29731984</version>
+  <versioning>
+    <versions>
+      <version>1.0.0-4d491573ecabc8648bd3a742d7e4d9df29731984</version>
+    </versions>
+    <snapshot>
+      <timestamp>20231126.040408</timestamp>
+      <buildNumber>0</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-4d491573ecabc8648bd3a742d7e4d9df29731984</value>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-4d491573ecabc8648bd3a742d7e4d9df29731984</value>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
