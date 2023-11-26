@@ -1,3 +1,4 @@
 flutter_infra_release/flutter/74d16627b940bb15e50891f82cad6c3e3465bd6d/dart-sdk-darwin-x64.zip filter=lfs diff=lfs merge=lfs -text
 flutter_infra_release/flutter/74d16627b940bb15e50891f82cad6c3e3465bd6d/dart-sdk-darwin-arm64.zip filter=lfs diff=lfs merge=lfs -text
 flutter_infra_release/flutter/74d16627b940bb15e50891f82cad6c3e3465bd6d/darwin-x64-release/FlutterMacOS.dSYM.zip filter=lfs diff=lfs merge=lfs -text
+flutter_infra_release/flutter/74d16627b940bb15e50891f82cad6c3e3465bd6d/dart-sdk-windows-x64.zip filter=lfs diff=lfs merge=lfs -text
